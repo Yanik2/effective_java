@@ -1,5 +1,6 @@
 package org.example;
 
+//think before use varargs, every invocation if method with varargs trigger array creation
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
